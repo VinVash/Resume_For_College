@@ -1,0 +1,77 @@
+{
+	"basics": {
+		"name": "Vinamra Vashishth",
+		"label": "Student",
+		"picture": "https://drive.google.com/file/d/1KSlxPRvvWqZkdLVJTjX0hdWTnAKkTErG/view?usp=sharing",
+		"email": "2020KUCP1046@iiitkota.ac.in",
+		"phone": "7042210172",
+		"website": "https://vinvash.github.io/",
+		"summary": "2nd year computer science undergraduate at IIIT Kota. Also a member of Zine Robotics and Research, MNIT Jaipur and core team member at IIITians Network. Have great interest in ML/DL and Competitive Programming. Currently learning Web Development.",
+		"location": {
+			"address": "A-76, Ashok Nagar, Ghaziabad",
+			"postalCode": "201001",
+			"city": "Ghaziabad",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "VinVash",
+				"url": "https://github.com/VinVash"
+			},
+			{
+				"network": "linkedin",
+				"username": "VINAMRA VASHISHTH",
+				"url": "https://www.linkedin.com/in/vinamra-vashishth-721785201"
+			},
+			{
+				"network": "Instagram",
+				"username": "vinvash01",
+				"url": "https://www.instagram.com/vinvash01/"
+			}
+		]
+	},
+	"work": [{
+		"company": "IIITians Network",
+		"position": "Frontend Developer",
+		"website": "https://iiitiansnetwork.com/",
+		"startDate": "2021-01-01",
+		"endDate": "",
+		"summary": "",
+		"highlights": ["Working on new IIITians Network Website."]
+	},
+  {
+    "company": "Zine Robotics and Research",
+		"position": "Developer",
+		"website": "http://zine.co.in/",
+		"startDate": "2021-03-01",
+		"endDate": "",
+		"summary": "",
+		"highlights": ["Working on the communication channel for ZINE members using MERN stack."]
+  }],
+	"education": [{
+		"institution": "Indian Institute of Information technology, Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"startDate": "2020-12-01",
+		"endDate": "2024-04-01",
+		"gpa": "9.45",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript","Bootstrap 4" ,"MERN Stack", "C/C++", "Python"]
+	},
+  {
+    "level": "Beginner",
+    "keywords": ["Tensorflow"]
+  }],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}],
+	"references": []
+}
